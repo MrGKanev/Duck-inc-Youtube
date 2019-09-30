@@ -17,10 +17,10 @@ This repository contains a simple sample code intended to demonstrate the capabi
 - Android Support Repository
 
 ## Credits
-* [Android based YouTube url extractor][1]
-* [RecyclerViewCodeSample][2]
-* Launcher icon and app icons using [AndroidAssetStudio][3]
-* [ExoPlayer][4]
+* [Android based YouTube url extractor]
+* [RecyclerViewCodeSample]
+* Launcher icon and app icons using [AndroidAssetStudio]
+* [ExoPlayer]
 
 ```
 Tab icons
