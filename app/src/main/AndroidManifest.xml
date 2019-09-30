@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.devteam.youtubemusic">
+          package="com.duckinc.youtubemusic">
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
@@ -26,7 +26,7 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-4566596476077595~5754073764"/>
         <activity
-            android:name="com.devteam.youtubemusic.ui.MainActivity"
+            android:name="com.duckinc.youtubemusic.ui.MainActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:launchMode="singleTop">
             <meta-data
@@ -81,7 +81,7 @@
         </activity>
 
         <activity
-            android:name="com.devteam.youtubemusic.ui.DownloadActivity"
+            android:name="com.duckinc.youtubemusic.ui.DownloadActivity"
             android:excludeFromRecents="true"
             android:taskAffinity=""
             android:theme="@style/AppTheme">
@@ -89,7 +89,7 @@
         </activity>
 
         <activity
-            android:name="com.devteam.youtubemusic.ui.DownloadSharedLinkActivity"
+            android:name="com.duckinc.youtubemusic.ui.DownloadSharedLinkActivity"
             android:excludeFromRecents="true"
             android:taskAffinity=""
             android:theme="@style/AppTheme">
@@ -101,17 +101,17 @@
         </activity>
 
         <service
-            android:name="com.devteam.youtubemusic.BackgroundAudioService"
+            android:name="com.duckinc.youtubemusic.BackgroundAudioService"
             android:process=":youtube">
         </service>
 
         <service
-            android:name="com.devteam.youtubemusic.BackgroundExoAudioService"
+            android:name="com.duckinc.youtubemusic.BackgroundExoAudioService"
             android:process=":youtube">
         </service>
 
         <receiver
-            android:name="com.devteam.youtubemusic.receivers.DownloadFinishedReceiver"
+            android:name="com.duckinc.youtubemusic.receivers.DownloadFinishedReceiver"
             android:exported="true"
             android:process=".dlFinished">
             <intent-filter>
@@ -120,7 +120,7 @@
         </receiver>
 
         <receiver
-            android:name="com.devteam.youtubemusic.receivers.MediaButtonIntentReceiver"
+            android:name="com.duckinc.youtubemusic.receivers.MediaButtonIntentReceiver"
             android:enabled="false">
             <intent-filter>
                 <action android:name="android.intent.action.MEDIA_BUTTON"/>

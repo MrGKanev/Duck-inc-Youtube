@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.devteam.youtubemusic.ui.MainActivity">
+    tools:context="com.duckinc.youtubemusic.ui.MainActivity">
 
 
     <RelativeLayout
@@ -38,7 +38,7 @@
 
             <fragment
                 android:id="@+id/fragment_playback_controls"
-                android:name="com.devteam.youtubemusic.ui.fragments.PlaybackControlsFragment"
+                android:name="com.duckinc.youtubemusic.ui.fragments.PlaybackControlsFragment"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
