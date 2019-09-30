@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">YiB</string>
+    <string name="menu_action_about">버전 정보</string>
+    <string name="recently_watched_tab">최근 본 영상</string>
+
+    <string name="search_tab">유튜브 검색</string>
+    <string name="playlist_tab">플레이리스트 검색</string>
+    <string name="search_hint">유튜브 검색</string>
+
+    <string name="action_search">검색</string>
+    <string name="drawer_open">열기</string>
+    <string name="drawer_close">닫기</string>
+
+    <!-- action labels -->
+    <string name="action_play">재생</string>
+    <string name="action_pause">일시 정지</string>
+    <string name="action_previous">이전</string>
+    <string name="action_next">다음</string>
+
+    <!-- fragments -->
+    <string name="fragment_tab_favorites">마음에 들어요</string>
+    <string name="fragment_tab_recently_watched">재생했던 영상</string>
+    <string name="fragment_tab_search">검색</string>
+    <string name="fragment_tab_playlist">플레이 리스트</string>
+    <string name="fragment_title_favorite">내가 마음에 들어한 영상</string>
+    <string name="fragment_title_recently_watched">최근에 본 영상</string>
+    <string name="fragment_title_search">검색했던 영상</string>
+    <string name="fragment_title_playlist">내 플레이 리스트</string>
+
+    <!-- toast messages -->
+    <string name="toast_message_hello">"반갑습니다!"</string>
+    <string name="toast_message_playlist_empty">플레이 리스트가 비어있습니다.</string>
+    <string name="toast_message_playlist_not_exist">플레이 리스트가 존재하지 않습니다.</string>
+    <string name="toast_message_removed_position">삭제됨</string>
+
+    <!-- Playlist Description -->
+    <string name="playlist_number_videos">영상 번호: %1$d</string>
+    <string name="playlist_status">상태: %1$s</string>
+
+
+    <string name="removed_positions">삭제됨</string>
+    <string name="tap_to_undo">되돌리기</string>
+    <string name="item_deleted">삭제된 항목입니다.</string>
+    <string name="load_playlist">받기</string>
+    <string name="user_playlist">플레이 리스트</string>
+
+    <string name="video_thumbnail">영상 썸네일</string>
+    <string name="toast_message_playing">재생 중: %1$s</string>
+    <string name="toast_message_error_extracting">오디오 추출 중 오류 발생: %1$s</string>
+    <string name="app_update">업데이트에 필요한 URL을 추출할 수 없습니다.</string>
+    <string name="error_no_yt_link">유효한 YouTube 링크가 아닙니다.</string>
+    <string name="share_image_button">공유:</string>
+    <string name="menu_action_clear_list">최근 본 영상 비우기</string>
+    <string name="menu_action_remove_account">등록된 계정을 제거하다</string>
+    <string name="toast_message_error_playing_url">오류 URL 보호됨: %1$s</string>
+    <string name="toast_message_loading">오디오로드 중</string>
+    <string name="error_loading_media">미디어 로딩 에러</string>
+    <string name="error_no_connection">서버에 연결할 수 없습니다. 인터넷 연결 여부를 확인해보세요.</string>
+    <string name="error_no_yt_video_retrieve">YouTube link 로딩 에러</string>
+    <string name="currently_playing">YouTube Video currently playing</string>
+    <string name="currently_playing_extra_info">Extra info for currently playing song</string>
+    <string name="currently_playing_views_number">Artist of currently playing song</string>
+    <string name="loading">로드 중...</string>
+    <string name="play_pause">재생 또는 일시 중지</string>
+    <string name="skip_prev">이전으로 건너 뛰기</string>
+    <string name="skip_next">다음으로 건너 뛰기</string>
+    <string name="notification_channel">YIB_Channel_ID</string>
+    <string name="notification_channel_description">Channel ID for YIB</string>
+
+    <!-- Notification actions -->
+    <string name="notification_skip_to_previous">Skip to previous track</string>
+    <string name="notification_skip_to_next">Skip to next track</string>
+    <string name="notification_play">Play</string>
+    <string name="notification_pause">Pause</string>
+</resources>
