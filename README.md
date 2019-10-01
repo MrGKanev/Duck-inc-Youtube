@@ -1,6 +1,8 @@
-## YouTube-In-Background (YiB)
+## Duck Inc Youtube
 
-YiB is an Android app, which plays audio of YouTube Videos in the background. Also, YiB provides mechanisms for searching videos, playing your playlists and downloading videos.
+DiY is an Android app, which plays audio of YouTube Videos in the background. Also, DiY provides mechanisms for searching videos, playing your playlists and downloading videos.
+
+This is a project made for one of our clases. Everybody in it had a role (project manager, designer, QA and programmer). In the folder files you can see all our documents/diagrams and etc. Everything is FAKE.
 
 This feature is against YouTube terms of service and could not be present on Google Play Store; therefore, I have developed it just for personal purposes. 
 
