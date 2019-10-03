@@ -4,7 +4,7 @@ DiY is an Android app, which plays audio of YouTube Videos in the background. Al
 
 This is a project made for one of our clases (Software Engineering). Everybody in it had a role (Project Manager, Designer, QA and Programmer). In the folder files you can see all our documents/diagrams and etc. Everything is FAKE.
 
-This feature is against YouTube terms of service and could not be present on Google Play Store; therefore, I have developed it just for personal purposes. 
+This feature is against YouTube terms of service and could not be present on Google Play Store; therefore, It is developed so I can finish my Bachelor's degree (hopefully).
 
 
 ### Disclaimer
@@ -19,10 +19,10 @@ This repository contains a simple sample code intended to demonstrate the capabi
 - Android Support Repository
 
 ## Credits
-* [Android based YouTube url extractor]
-* [RecyclerViewCodeSample]
-* Launcher icon and app icons using [AndroidAssetStudio]
-* [ExoPlayer]
+* Android based YouTube url extractor
+* RecyclerViewCodeSample
+* Icons using [AndroidAssetStudio]
+* ExoPlayer
 
 ```
 Tab icons
