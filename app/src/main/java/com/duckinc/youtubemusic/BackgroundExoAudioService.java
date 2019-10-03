@@ -155,11 +155,11 @@ public class BackgroundExoAudioService extends Service implements PlaybackServic
         // The service needs to continue running even after the bound client (usually a
         // MediaController) disconnects, otherwise the playback will stop.
         // Calling startService(Intent) will keep the service running until it is explicitly killed.
-//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-//            startForegroundService(new Intent(context, BackgroundExoAudioService.class));
-//        } else {
-//            startService(new Intent(context, BackgroundExoAudioService.class));
-//        }
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            startForegroundService(new Intent(context, BackgroundExoAudioService.class));
+        } else {
+            startService(new Intent(context, BackgroundExoAudioService.class));
+        }
 
         mediaNotificationManager.startNotification();
     }

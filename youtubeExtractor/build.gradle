@@ -16,7 +16,7 @@ android {
 }
 
 dependencies {
-    implementation 'androidx.annotation:annotation:1.0.0'
+    implementation 'androidx.annotation:annotation:1.1.0'
     implementation('com.github.evgenyneu:js-evaluator-for-android:v5.0.0') {
         exclude module: 'appcompat-v7'
     }

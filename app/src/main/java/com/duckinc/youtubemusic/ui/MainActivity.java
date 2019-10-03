@@ -453,10 +453,10 @@ public class MainActivity extends AppCompatActivity
                 Date date = new Date();
 
                 AlertDialog alertDialog = new AlertDialog.Builder(MainActivity.this).create();
-                alertDialog.setTitle("Youtube MP3");
+                alertDialog.setTitle("Duck Inc");
                 alertDialog.setIcon(R.mipmap.ic_launcher);
                 alertDialog.setMessage(
-                        "Version: " + BuildConfig.VERSION_NAME + "\n\nFafli OOD\n\n"
+                        "Version: " + BuildConfig.VERSION_NAME + "\n\nDuck Inc\n\n"
                 );
                 alertDialog.setButton(
                         AlertDialog.BUTTON_NEUTRAL,
