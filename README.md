@@ -6,6 +6,10 @@ This is a project made for one of our clases (Software Engineering). Everybody i
 
 This feature is against YouTube terms of service and could not be present on Google Play Store; therefore, It is developed so I can finish my Bachelor's degree (hopefully).
 
+### For other students from RU/(other universities)
+
+If you steal anything from here at least give someone from the team a beer. It was a big challange to make it this far so I think we deserve it. Just don't steal our duck, it's our priceless possession.
+
 
 ### Disclaimer
 
