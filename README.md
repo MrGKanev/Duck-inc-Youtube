@@ -1,3 +1,4 @@
+<img src="../files/images/duck_logo.png" align="center">
 ## Duck Inc Youtube
 
 DiY is an Android app, which plays audio of YouTube Videos in the background. Also, DiY provides mechanisms for searching videos, playing your playlists and downloading videos.
