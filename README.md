@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MrGKanev/Duck-inc-Youtube/blob/master/files/images/duck_logo.png" widgh='5%' hight='5%' alt='Duck-Inc-Logo'>
+  <img src="https://github.com/MrGKanev/Duck-inc-Youtube/blob/master/files/images/duck_logo.png" widgh='250px' hight='250px' alt='Duck-Inc-Logo'>
 </p>
 
 
