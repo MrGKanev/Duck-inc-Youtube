@@ -9,11 +9,11 @@ DiY is an Android app, which plays audio of YouTube Videos in the background. Al
 
 This is a project made for one of our clases (Software Engineering). Everybody in it had a role (Project Manager, Designer, QA and Programmer). In the folder files you can see all our documents/diagrams and etc. Everything is FAKE.
 
-This feature is against YouTube terms of service and could not be present on Google Play Store; therefore, It is developed so I can finish my Bachelor's degree (hopefully).
+This applications is against YouTube terms of service and could not be present on Google Play Store therefore, It is developed so I can finish my Bachelor's degree (hopefully). You can download the app (hopefully) from the "release" folder.
 
 ### For other students from RU / (other universities)
 
-If you steal anything from here at least give someone from the team a beer. It was a big challange to make it this far so I think we deserve it. Just don't steal our duck, it's our priceless possession.
+If you steal anything from here at least give someone from the team a beer. It was a big challange to make it this far so I think we deserve it. Just don't steal our duck, it's our priceless possession. (And I would personally hunt you down for it!)
 
 
 ### Disclaimer
