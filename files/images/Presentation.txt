@@ -1,0 +1,2 @@
+I was lazy to code a Presentation in something cool like Vue, Prezi, anykind of animated stuff or Reveal.js. That is why I made it (design/searched for icons/backgronds/and etc) with Goole Docs and left my colleges to add the information. That is how a "team member" should work, right?
+https://docs.google.com/presentation/d/1Ybg9bHvNmgfDJh00ullczDJsW12jQFpoPgEgl52IF4Q/edit?usp=sharing
