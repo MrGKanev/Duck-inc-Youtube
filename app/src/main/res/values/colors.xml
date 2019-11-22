@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="color_primary">#c23232</color>
-    <color name="color_primary_dark">#c62826 </color>
-    <color name="contrast_background">#c23232</color>
-    <color name="text_color_primary">#ffffff</color>
+    <color name="color_primary">#89fbde</color>
+    <color name="color_primary_dark">#89fbde</color>
+    <color name="contrast_background">#89fbde</color>
+    <color name="text_color_primary">#434343</color>
     <color name="window_background">#333333</color>
     <color name="playback_control_background">#CFCFCF</color>
     <color name="text_color_seekbar">#333333</color>

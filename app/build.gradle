@@ -30,7 +30,7 @@ android {
 }
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
-    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation 'androidx.cardview:cardview:1.0.0'
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
     implementation 'androidx.localbroadcastmanager:localbroadcastmanager:1.0.0'
@@ -42,17 +42,17 @@ dependencies {
     implementation 'com.google.android.gms:play-services-auth:17.0.0'
     implementation 'com.google.android.exoplayer:exoplayer:2.10.2'
     implementation 'com.google.code.gson:gson:2.8.5'
-    implementation 'com.google.api-client:google-api-client:1.30.4'
-    implementation 'com.google.api-client:google-api-client-android:1.30.4'
-    implementation 'com.google.http-client:google-http-client:1.32.1'
-    implementation 'com.google.http-client:google-http-client-android:1.32.1'
-    implementation 'com.google.http-client:google-http-client-jackson2:1.32.1'
-    implementation 'com.google.apis:google-api-services-youtube:v3-rev99-1.17.0-rc'
-    implementation 'com.googlecode.mp4parser:isoparser:1.1.22'
-    implementation 'com.fasterxml.jackson.core:jackson-core:2.10.0.pr3'
-    implementation 'org.aspectj:aspectjrt:1.9.4'
-    implementation 'com.squareup.picasso:picasso:2.71828'
-    implementation 'com.google.android.gms:play-services-ads:18.2.0'
+    implementation 'com.google.api-client:google-api-client:1.22.0'
+    implementation 'com.google.api-client:google-api-client-android:1.22.0'
+    implementation 'com.google.http-client:google-http-client:1.22.0'
+    implementation 'com.google.http-client:google-http-client-android:1.22.0'
+    implementation 'com.google.http-client:google-http-client-jackson2:1.22.0'
+    implementation 'com.google.apis:google-api-services-youtube:v3-rev182-1.22.0'
+    implementation 'com.googlecode.mp4parser:isoparser:1.1.17'
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.8.7'
+    implementation 'org.aspectj:aspectjrt:1.8.8'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.google.android.gms:play-services-ads:18.1.1'
 
     implementation project(':youtubeExtractor')
 }

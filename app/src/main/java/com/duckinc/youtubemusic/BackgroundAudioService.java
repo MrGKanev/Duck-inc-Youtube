@@ -517,13 +517,13 @@ public class BackgroundAudioService extends Service implements AudioManager.OnAu
         notificationBuilder.setStyle(style);
 
         //load bitmap for largeScreen
-        if (currentVideo.getThumbnailURL() != null && !currentVideo.getThumbnailURL().isEmpty()) {
-            Picasso.with(this)
-                    .load(currentVideo.getThumbnailURL())
-                    .resize(Config.MAX_WIDTH_ICON, Config.MAX_HEIGHT_ICON)
-                    .centerCrop()
-                    .into(target);
-        }
+//        if (currentVideo.getThumbnailURL() != null && !currentVideo.getThumbnailURL().isEmpty()) {
+//            Picasso.with(this)
+//                    .load(currentVideo.getThumbnailURL())
+//                    .resize(Config.MAX_WIDTH_ICON, Config.MAX_HEIGHT_ICON)
+//                    .centerCrop()
+//                    .into(target);
+//        }
 
         notificationBuilder.addAction(generateIntentAction(ACTION_PREVIOUS));
         notificationBuilder.addAction(generateIntentAction(ACTION_NEXT));
