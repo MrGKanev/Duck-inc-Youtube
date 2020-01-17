@@ -18,7 +18,7 @@ If you steal anything from here at least give someone from the team a beer. It w
 
 ### Disclaimer
 
-This repository contains a simple sample code (a bad one) intended to demonstrate the capabilities of the YouTube API V3. It is not intended to be used as-is in applications as a library dependency, and will not be maintained as such. 
+This repository contains a simple sample code (a bad one) intended to demonstrate the capabilities of the YouTube API V3. It is not intended to be used as-is in applications as a library dependency, and will not be maintained as such. Bugfix contributions are welcome, but issues and feature requests will not be addressed. The project is in a state of "archive" but only open so if there are any PR for bug fixed so they can be made and approuved.
 
 
 ### Pre-requisites
